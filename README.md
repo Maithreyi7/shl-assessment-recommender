@@ -37,10 +37,10 @@ Results are sorted by highest relevance score.
 ## Deployment
 
 Live App:  
-https://your-app-url.streamlit.app
+[https://your-app-url.streamlit.app](https://shl-assessment-recommender-cdvj9fjkryvcsxhw992hzy.streamlit.app/)
 
 GitHub Repository:  
-https://github.com/yourusername/shl-assessment-recommender
+https://github.com/Maithreyi7/shl-assessment-recommender
 
 ## Future Enhancements
 
